@@ -17,3 +17,6 @@
  Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
 
  
+![Screenshot_16](https://github.com/user-attachments/assets/c8000468-1510-4ca1-95d5-d7228eabede1)
+
+ 
